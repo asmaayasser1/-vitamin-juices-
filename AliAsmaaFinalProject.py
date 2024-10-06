@@ -18,8 +18,8 @@ class VitaminJuicesApp:
         self.root.geometry("500x400")
 
         # Correct file references based on the image types and names
-        self.juice_image = PhotoImage(file="fruit.png")  # Using fruit.png instead of juiceHealthydrink
-        self.logo_image = PhotoImage(file="logo Juice.png")  # Correctly referencing logo Juice.png
+        self.juice_image = PhotoImage(file="fruit.png")  
+        self.logo_image = PhotoImage(file="logo Juice.png")  
 
         # Main frame
         self.main_frame = tk.Frame(self.root)
