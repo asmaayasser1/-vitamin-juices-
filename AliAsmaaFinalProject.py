@@ -1,3 +1,13 @@
+"""
+Author: Asmaa Ali
+Date: 10/1/24
+File: finalProjectMod06.py
+Github link:https://github.com/asmaayasser1/-vitamin-juices-/tree/main
+ 
+ This application is to allow users to create custom juice blends by selecting 
+a juice base, adding supplements, and specifying the size of the drink. 
+
+"""
 import tkinter as tk
 from tkinter import messagebox, PhotoImage
 
